@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="theme_color">#FF1520</color>
+    <color name="white_color">#fff</color>
+    <color name="txt_color">#666</color>
+    <color name="txt_blank_color">#2B2A29</color>
+    <color name="background_color">#f6f6f6</color>
+
+    <color name="repayment_black3_6">#666</color>
+    <color name="c_cccccc">#cccccc</color>
+    <color name="c_FF9800">#FF9800</color>
+    <color name="font_color_bottom">#D4C0B9</color>
+
+
+
+</resources>
