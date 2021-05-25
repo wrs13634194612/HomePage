@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_df"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Patient Details" />
+        <item
+            android:id="@+id/nav_ff"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Sponsor" />
+        <item
+            android:id="@+id/nav_he"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Healthguide" />
+        <item
+            android:id="@+id/nav_cr"
+            android:icon="@drawable/ic_menu_share"
+            android:title="EI Test" />
+        <item
+            android:id="@+id/nav_nt"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Medical Notebook" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+
+        </menu>
+    </item>
+
+</menu>
